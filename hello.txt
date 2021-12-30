@@ -1,0 +1,13 @@
+npm init واطغط انتر اكتر من مرة
+
+npm install body-parser dotenv express md5 mongoose router
+
+
+
+
+http://localhost:5000/api/products?category=man عشان تجيب كاتيجورى معينة مثلا 
+http://localhost:5000/api/products   for all products or create product الفرق فى الميثود المستخدمة جيت او بوست
+http://localhost:5000/api/products/:id   for delete update or get single product 
+http://localhost:5000/api/user/registerUser  for register 
+http://localhost:5000/api/user/loginUser for login 
+http://localhost:5000/api/user/getUsers   to get all users
